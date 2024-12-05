@@ -2,12 +2,15 @@ project:
   type: book
 
 book:
-  title: "Book"
-  author: "Norah Jones"
+  title: "Signal Transforms"
+  author: "Oliver James"
   date: "12/5/2024"
   chapters:
     - index.qmd
     - intro.qmd
+    - ContinuousTimeTransforms.qmd
+    - FourierTransforms.qmd
+    - LaplaceTransforms.qmd
     - summary.qmd
     - references.qmd
 
